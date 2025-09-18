@@ -12,7 +12,8 @@ To write a python program to find the rank of a matrix
 ## Program:
 ##devoloped by :Dhanush Rajan.T
 ##ref.no.25013743
-<img width="1920" height="1020" alt="2025-09-18 (1)" src="https://github.com/user-attachments/assets/7ccf5dfe-c83e-4170-9dd2-0ed3157c4478" />
+<img width="1920" height="1020" alt="2025-09-18 (3)" src="https://github.com/user-attachments/assets/9719eab8-2f53-4405-a69d-c7b620e22777" />
+
 
 ## Output:
 ## Result:
